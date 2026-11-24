@@ -1,4 +1,4 @@
-# ⚡ Welcome to FUSION 5 (Group 7)
+# ⚡ Welcome to FUSION 5 (Group 6)
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-University%20of%20Moratuwa-blue?style=for-the-badge" alt="UoM" />
